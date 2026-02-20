@@ -1,1 +1,1 @@
-Hi this git tutorial by Manikanta
+Hi this is git tutorial by Manikanta
